@@ -24,7 +24,6 @@
     display:block;
     margin-left: auto;
     margin-right: auto;
-    padding-top: 70px;
 }
 
 .info
@@ -61,12 +60,18 @@
 .newstop
 {
     text-align:center;
+    padding-bottom:60px;
 }
 
 .divider
 {
     max-width:98%;
     margin-top:15px;
+}
+
+.section
+{
+    padding: 5px;
 }
 
 .newstv
